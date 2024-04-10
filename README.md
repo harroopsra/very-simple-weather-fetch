@@ -1,3 +1,5 @@
-# very-simple-weather-fetch
+# weather-fetch
 
-Simple to get weather data and name of location when given coordinates. Randomly generates coordinates if no value for either latitudes/longitudes
+Fetches weather data and name of location when given coordinates using the OpenWeatherMap Weather API and the Reverse Geocoding API. Randomly generates coordinates if no value given for either latitudes/longitudes\
+\
+Requires API key
